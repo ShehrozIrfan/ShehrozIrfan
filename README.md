@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ShehrozIrfan
 - 👀 I’m interested in Website Development.
-- 🌱 I’m currently learning Ruby on Rails. And working as a Jr. Software Engineer(ROR Developer) at EuphoriaXR.
+- 🌱 I’m currently learning Ruby on Rails. And working as an Associate Software Engineer(ROR Developer) at EuphoriaXR.
 - 📫 How to reach me [shehrozirfan89@gmail.com]
 
 <!---
