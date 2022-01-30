@@ -6,7 +6,7 @@
 
 - I'm always eager to learn new technologies and to take my skills to next level!
 
-- I love to write and share what I've learned to help the dev community:
+- I love to write and share what I've learned:
   - https://medium.com/@shehrozirfan
   - https://dev.to/shehrozirfan
 
