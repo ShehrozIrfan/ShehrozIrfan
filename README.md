@@ -4,11 +4,11 @@
 
 - I am currently working as an Associate Software Engineer at EuphoriaXR. My role at EuphoriaXR is to develop Web Applications in Rails.
 
-- I'm always eager to learn new technologies and to take my skills to next level!
-
-- I love to write and share what I've learned:
+- I write technical content on:
   - https://medium.com/@shehrozirfan
   - https://dev.to/shehrozirfan
+
+- I'm always eager to learn new technologies and to enhance my skills set.
 
 - Email: "shehrozirfan89@gmail.com"
 
