@@ -8,8 +8,6 @@
   - https://medium.com/@shehrozirfan
   - https://dev.to/shehrozirfan
 
-- I'm always eager to learn new technologies and to enhance my skills set.
-
 - Email: "shehrozirfan89@gmail.com"
 
 <!---
