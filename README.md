@@ -1,8 +1,8 @@
 ### Hi, Myself Shehroz Irfan!
 
-- Hardworking, passionate, and consistent champ,  having a good grip on Ruby on Rails, JavaScript, JQuery, Bootstrap 4, MySQL and Git.
+- Hardworking, passionate, and consistent champ,  having a good grip on Ruby on Rails, ReactJS, JavaScript, JQuery, Bootstrap 4, MySQL and Git.
 
-- I am currently working as an Associate Software Engineer at EuphoriaXR. My role at EuphoriaXR is to develop Web Applications in Rails.
+- I am currently working as an Software Engineer at EuphoriaXR. My role at EuphoriaXR is to develop Web Applications in Rails.
 
 - I write technical content on:
   - https://medium.com/@shehrozirfan
