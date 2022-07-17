@@ -13,7 +13,7 @@
     </a>
   </div>
 
-- :zap: In my free time, I learn new technologies, read tech articles.
+- :zap: In my free time, I learn new technologies and read tech articles.
 
 ---
 
