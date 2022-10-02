@@ -13,7 +13,7 @@
     </a>
   </div>
 
-- :zap: In my free time, I learn new technologies and read tech articles.
+- :zap: I love to attend tech events, network with like-minded people, share my knowledge, and always eager to learn new technologies to enhance my skills set.
 
 ---
 
