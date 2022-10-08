@@ -1,10 +1,10 @@
-### Hi, Myself Shehroz Irfan 👋
+### Hello World, Myself Shehroz Irfan 👋
 
 ## I am a Coding Enthusiast, Full Stack Web Developer (ROR | React)
 
 #### :man_technologist: About Me :
 
-- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+- :telescope: I’m working as a Software Engineer and expanding my knowledge of Ruby on Rails and React.
 
 - :seedling: I write technical content on: 
   <div id="badges">
@@ -14,6 +14,10 @@
   </div>
 
 - :zap: I love to attend tech events, network with like-minded people, share my knowledge, and always eager to learn new technologies to enhance my skills set.
+
+- 🥅  Goals(2022-23): Contribute to open source and learn new technologies to enhance my skills set.
+
+![](https://komarev.com/ghpvc/?username=ShehrozIrfan&color=blue)
 
 ---
 
@@ -35,13 +39,21 @@
 
 ---
 
-### :fire: My Stats :
+### :fire: GitHub Analytics :
+
+<img src="https://github-readme-stats.vercel.app/api?username=ShehrozIrfan&layout=compact&theme=vision-friendly-dark&show_icons=true"/>
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=ShehrozIrfan&theme=dark)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShehrozIrfan&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 --- 
+
+### 🚀 Contribution Graph :
+
+[![Shehroz github activity graph](https://activity-graph.herokuapp.com/graph?username=ShehrozIrfan&theme=react-dark)](https://github.com/shehrozirfan/github-readme-activity-graph)
+
+---
 
 ## 🤝🏻  Connect with Me
 
