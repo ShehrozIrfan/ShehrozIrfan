@@ -55,7 +55,14 @@
 
 ---
 
-## 🤝🏻  Connect with Me
+### 📚 Latest Blog Posts :
+- [How to learn Ruby on Rails from scratch](https://medium.com/@shehrozirfan/how-to-learn-ruby-on-rails-from-scratch-5f6c88de8326)
+- [Git Cheat Sheet For Beginners](https://medium.com/@shehrozirfan/git-cheat-sheet-for-beginners-29f52f2e48e0)
+- [Git rebase a remote branch in the terminal](https://medium.com/@shehrozirfan/git-rebase-a-remote-branch-in-the-terminal-1850bb5ff12c)
+
+---
+
+### 🤝🏻  Connect with Me
 
 <div id="badges">
   <a href="https://www.linkedin.com/in/shehroz-irfan-447881158/" target="_blank">
