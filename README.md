@@ -17,7 +17,10 @@
 
 - 🥅  Goals(2022-23): Contribute to open source and learn new technologies to enhance my skills set.
 
-![](https://komarev.com/ghpvc/?username=ShehrozIrfan&color=blue)
+<!-- 
+Profile Views Count
+![](https://komarev.com/ghpvc/?username=ShehrozIrfan&color=blue) 
+-->
 
 ---
 
