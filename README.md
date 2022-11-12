@@ -115,6 +115,10 @@ Profile Views Count
 - [How to learn Ruby on Rails from scratch](https://medium.com/@shehrozirfan/how-to-learn-ruby-on-rails-from-scratch-5f6c88de8326)
 - [Git Cheat Sheet For Beginners](https://medium.com/@shehrozirfan/git-cheat-sheet-for-beginners-29f52f2e48e0)
 - [Git rebase a remote branch in the terminal](https://medium.com/@shehrozirfan/git-rebase-a-remote-branch-in-the-terminal-1850bb5ff12c)
+- [AJAX and Remote form submission in Rails](https://medium.com/@shehrozirfan/remote-form-submission-and-ajax-in-rails-14efd1880c40)
+- [`each_with_index` in Ruby](https://www.linkedin.com/posts/shehroz-irfan-447881158_eachwithindex-in-ruby-activity-6967910565285367808-v1TT)
+- [Validate email address using `REGEX` in RoR](https://www.linkedin.com/posts/shehroz-irfan-447881158_validate-an-email-in-ruby-on-rails-activity-6957026079127547904-Dl5I)
+- [Beginner's guide to using `DIFF` and `PATCH` commands](https://medium.com/@shehrozirfan/beginners-guide-to-using-diff-and-patch-d838079f19c7)
 
 ---
 
