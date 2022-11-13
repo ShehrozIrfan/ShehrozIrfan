@@ -17,6 +17,10 @@
 
 - 🥅  Goals(2022-23): Contribute to open source and learn new technologies to enhance my skills set.
 
+#### 📛 Hacktoberfest 2022 Badges from [Holopin](https://www.holopin.io/) :
+
+[![@shehrozirfan's Holopin board](https://holopin.me/shehrozirfan)](https://holopin.io/@shehrozirfan)
+
 <!-- 
 Profile Views Count
 ![](https://komarev.com/ghpvc/?username=ShehrozIrfan&color=blue) 
