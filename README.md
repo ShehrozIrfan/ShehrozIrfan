@@ -28,7 +28,7 @@ Profile Views Count
 
 ---
 
-### :hammer_and_wrench: Languages and Tools :
+## :hammer_and_wrench: Languages and Tools :
 <table>
   <tr>
     <td align='center' width="190">
@@ -99,7 +99,53 @@ Profile Views Count
 
 ---
 
-### :fire: GitHub Analytics :
+## 💻 Projects
+<!-- <h1 align="center">Projects</h1> -->
+<table bordercolor="#66b2b2">
+  
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">ToDo App</h3>
+      <br />
+      <a target="_blank" href="https://add-your-todo-tasks.netlify.app">
+          <img width="100%" alt="Todo App" src="https://user-images.githubusercontent.com/36946330/202845272-7a34058c-b865-4abd-9f7b-623b59daf7a6.png">
+      </a>
+      <br />
+      <p align="center">
+        <br>
+        <a href="https://github.com/ShehrozIrfan/react-essential-training/tree/master/todo_app" target="_blank">
+          <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=f&style=plastic&logo=github&logo-color=white"/>
+        </a>  
+        <a href="https://add-your-todo-tasks.netlify.app" target="_blank">
+          <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+        </a>
+      </p>
+      <p><strong>React, Bootstrap</strong> - Todo App where you can manage your Todo tasks.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">Portfolio</h3>
+      <br />
+      <a target="_blank" href="https://shehrozirfan.github.io/portfolio">
+        <img width="100%" alt="Portfolio" src="https://user-images.githubusercontent.com/36946330/202846477-3d6400e8-b85c-477d-a235-51627c1e650b.png">
+      </a>
+      <br />
+      <p align="center">
+        <br>
+        <a href="https://github.com/ShehrozIrfan/portfolio" target="_blank">
+          <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=f&style=plastic&logo=github&logo-color=white"/>
+        </a>  
+        <a href="https://shehrozirfan.github.io/portfolio" target="_blank">
+          <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+        </a>
+      </p>
+      <p><strong>HTML5, CSS3, Bootstrap & Javascript</strong> - Portfolio Site including links to my projects and ways to get in contact with me.</p>
+    </td>
+  </tr>
+</table>
+
+---
+
+## :fire: GitHub Analytics :
 
 <img src="https://github-readme-stats.vercel.app/api?username=ShehrozIrfan&layout=compact&theme=vision-friendly-dark&show_icons=true"/>
 
@@ -109,13 +155,13 @@ Profile Views Count
 
 --- 
 
-### 🚀 Contribution Graph :
+## 🚀 Contribution Graph :
 
 [![Shehroz github activity graph](https://activity-graph.herokuapp.com/graph?username=ShehrozIrfan&theme=react-dark)](https://github.com/shehrozirfan/github-readme-activity-graph)
 
 ---
 
-### 📚 Latest Blog Posts :
+## 📚 Latest Blog Posts :
 - [How to learn Ruby on Rails from scratch](https://medium.com/@shehrozirfan/how-to-learn-ruby-on-rails-from-scratch-5f6c88de8326)
 - [Git Cheat Sheet For Beginners](https://medium.com/@shehrozirfan/git-cheat-sheet-for-beginners-29f52f2e48e0)
 - [Git rebase a remote branch in the terminal](https://medium.com/@shehrozirfan/git-rebase-a-remote-branch-in-the-terminal-1850bb5ff12c)
@@ -126,7 +172,7 @@ Profile Views Count
 
 ---
 
-### 🤝🏻  Connect with Me
+## 🤝🏻  Connect with Me
 
 <div id="badges">
   <a href="https://www.linkedin.com/in/shehroz-irfan-447881158/" target="_blank">
