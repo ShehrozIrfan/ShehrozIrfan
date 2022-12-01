@@ -185,7 +185,7 @@ Profile Views Count
 - [`each_with_index` in Ruby](https://www.linkedin.com/posts/shehroz-irfan-447881158_eachwithindex-in-ruby-activity-6967910565285367808-v1TT)
 - [Validate email address using `REGEX` in RoR](https://www.linkedin.com/posts/shehroz-irfan-447881158_validate-an-email-in-ruby-on-rails-activity-6957026079127547904-Dl5I)
 - [Beginner's guide to using `DIFF` and `PATCH` commands](https://medium.com/@shehrozirfan/beginners-guide-to-using-diff-and-patch-d838079f19c7)
-
+- [Adding self-referential associations in rails](https://www.linkedin.com/posts/shehroz-irfan-447881158_self-referential-associations-in-rails-activity-7002332285723131904--bNq)
 ---
 
 ## 🤝🏻  Connect with Me
