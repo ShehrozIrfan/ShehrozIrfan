@@ -171,9 +171,9 @@ Profile Views Count
 
 --- 
 
-## 🚀 Contribution Graph :
+<!-- ## 🚀 Contribution Graph :
 
-[![Shehroz github activity graph](https://activity-graph.herokuapp.com/graph?username=ShehrozIrfan&theme=react-dark)](https://github.com/shehrozirfan/github-readme-activity-graph)
+[![Shehroz github activity graph](https://activity-graph.herokuapp.com/graph?username=ShehrozIrfan&theme=react-dark)](https://github.com/shehrozirfan/github-readme-activity-graph) -->
 
 ---
 
