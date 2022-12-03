@@ -100,7 +100,6 @@ Profile Views Count
 ---
 
 ## 💻 Projects
-<!-- <h1 align="center">Projects</h1> -->
 <table bordercolor="#66b2b2">
   
   <tr>
@@ -158,6 +157,16 @@ Profile Views Count
     </td>
   </tr>
 </table>
+
+---
+
+## 👨‍👩‍👦‍👦 Some Community Projects :
+
+|      Project :octocat:   |     Issues :bug:   | Open PRs :bell:  | Closed PRs :fire:  |
+|-------------|-------------------|---|---|
+| [**Learn Programming Fundamentals**](https://github.com/ShehrozIrfan/learn-programming-fundamentals) | [![GitHub issues](https://img.shields.io/github/issues/shehrozirfan/learn-programming-fundamentals?color=green&logo=github&style=flat)](https://github.com/ShehrozIrfan/learn-programming-fundamentals/issues) | [![GitHub PRs](https://img.shields.io/github/issues-pr/shehrozirfan/learn-programming-fundamentals?style=flat&logo=github)](https://github.com/ShehrozIrfan/learn-programming-fundamentals/pulls)  | [![GitHub PRs](https://img.shields.io/github/issues-pr-closed/shehrozirfan/learn-programming-fundamentals?style=flat&color=critical&logo=github)](https://github.com/ShehrozIrfan/learn-programming-fundamentals/issues?q=is%3Aissue+is%3Aclosed)  |
+| [**Comment Tree App**](https://github.com/ShehrozIrfan/comment_tree_app) | [![GitHub issues](https://img.shields.io/github/issues/shehrozirfan/comment_tree_app?color=green&logo=github&style=flat)](https://github.com/ShehrozIrfan/comment_tree_appcomment_tree_app/issues) | [![GitHub PRs](https://img.shields.io/github/issues-pr/shehrozirfan/comment_tree_app?style=flat&logo=github)](https://github.com/ShehrozIrfan/comment_tree_app/pulls)  | [![GitHub PRs](https://img.shields.io/github/issues-pr-closed/shehrozirfan/comment_tree_app?style=flat&color=critical&logo=github)](https://github.com/ShehrozIrfan/comment_tree_app/issues?q=is%3Aissue+is%3Aclosed)  |
+| [**Ruby Rocks**](https://github.com/ShehrozIrfan/ruby-rocks) | [![GitHub issues](https://img.shields.io/github/issues/shehrozirfan/ruby-rocks?color=green&logo=github&style=flat)](https://github.com/ShehrozIrfan/ruby-rocks/issues) | [![GitHub PRs](https://img.shields.io/github/issues-pr/shehrozirfan/ruby-rocks?style=flat&logo=github)](https://github.com/ShehrozIrfan/ruby-rocks/pulls)  | [![GitHub PRs](https://img.shields.io/github/issues-pr-closed/shehrozirfan/ruby-rocks?style=flat&color=critical&logo=github)](https://github.com/ShehrozIrfan/ruby-rocks/issues?q=is%3Aissue+is%3Aclosed)  |
 
 ---
 
