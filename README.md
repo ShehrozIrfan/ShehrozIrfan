@@ -4,7 +4,7 @@
 
 #### :man_technologist: About Me :
 
-- :telescope: I’m working as a Software Engineer and expanding my knowledge of Ruby on Rails and React.
+- :telescope: I’m working as a Software Engineer and expanding my knowledge of Ruby on Rails, GraphQL and React.
 
 - :seedling: I write technical content on: 
   <div id="badges">
