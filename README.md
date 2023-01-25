@@ -169,23 +169,22 @@ Profile Views Count
 | [**Comment Tree App**](https://github.com/ShehrozIrfan/comment_tree_app) | [![GitHub issues](https://img.shields.io/github/issues/shehrozirfan/comment_tree_app?color=green&logo=github&style=flat)](https://github.com/ShehrozIrfan/comment_tree_app/issues) | [![GitHub PRs](https://img.shields.io/github/issues-pr/shehrozirfan/comment_tree_app?style=flat&logo=github)](https://github.com/ShehrozIrfan/comment_tree_app/pulls)  | [![GitHub PRs](https://img.shields.io/github/issues-pr-closed/shehrozirfan/comment_tree_app?style=flat&color=critical&logo=github)](https://github.com/ShehrozIrfan/comment_tree_app/pulls?q=is%3Aissue+is%3Aclosed)  |
 | [**Ruby Rocks**](https://github.com/ShehrozIrfan/ruby-rocks) | [![GitHub issues](https://img.shields.io/github/issues/shehrozirfan/ruby-rocks?color=green&logo=github&style=flat)](https://github.com/ShehrozIrfan/ruby-rocks/issues) | [![GitHub PRs](https://img.shields.io/github/issues-pr/shehrozirfan/ruby-rocks?style=flat&logo=github)](https://github.com/ShehrozIrfan/ruby-rocks/pulls)  | [![GitHub PRs](https://img.shields.io/github/issues-pr-closed/shehrozirfan/ruby-rocks?style=flat&color=critical&logo=github)](https://github.com/ShehrozIrfan/ruby-rocks/pulls?q=is%3Aissue+is%3Aclosed)  |
 
+<!-- 
 ---
 
 ## :fire: GitHub Analytics :
 
 <img src="https://github-readme-stats.vercel.app/api?username=ShehrozIrfan&layout=compact&theme=vision-friendly-dark&show_icons=true"/>
 
-<!-- [![GitHub Streak](https://streak-stats.demolab.com?user=ShehrozIrfan&theme=dark)](https://git.io/streak-stats) -->
+[![GitHub Streak](https://streak-stats.demolab.com?user=ShehrozIrfan&theme=dark)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShehrozIrfan&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 --- 
-
-<!-- ## 🚀 Contribution Graph :
+ 
+## 🚀 Contribution Graph :
 
 [![Shehroz github activity graph](https://activity-graph.herokuapp.com/graph?username=ShehrozIrfan&theme=react-dark)](https://github.com/shehrozirfan/github-readme-activity-graph) -->
-
----
 
 ## 📚 Latest Blog Posts :
 - [How to learn Ruby on Rails from scratch](https://medium.com/@shehrozirfan/how-to-learn-ruby-on-rails-from-scratch-5f6c88de8326)
