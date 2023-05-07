@@ -94,6 +94,9 @@ Profile Views Count
     <td align='center' width="190">
       <img src="https://www.vectorlogo.zone/logos/graphql/graphql-ar21.svg" title="GraphQL"  alt="GraphQL" width="100" height="60"/>
     </td>
+    <td align='center' width="190">
+      <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg" title="NodeJS"  alt="Node" width="100" height="60"/>
+    </td>
   </tr>
 </table>
 
