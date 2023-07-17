@@ -15,7 +15,7 @@
 
 - :zap: I love to attend tech events, network with like-minded people, share my knowledge, and always eager to learn new technologies to enhance my skills set.
 
-- 🥅  Goals(2022-23): Enhance my skill set by learning `Node`, `React`, `TypeScript`, `GraphQL`, `Ruby on Rails`, `Docker`
+- 🥅  Goals(2022-23): Enhance my skill set by learning `Node`, `React`, `TypeScript`, `GraphQL`, `Ruby on Rails`, `Docker`, `Cloud Computing`, `AWS`
 
 #### 📛 Hacktoberfest 2022 Badges from [Holopin](https://www.holopin.io/) :
 
