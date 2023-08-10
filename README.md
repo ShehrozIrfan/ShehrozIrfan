@@ -77,11 +77,11 @@ Profile Views Count
     <td align='center' width="190">
       <img src="https://www.vectorlogo.zone/logos/github/github-ar21.svg" title="Github"  alt="Github" width="100" height="60"/>
     </td>
-  </tr>
-  <tr>
     <td align='center' width="190">
       <img src="https://www.vectorlogo.zone/logos/heroku/heroku-ar21.svg" title="Heroku" alt="Heroku" width="100" height="60">
     </td>
+  </tr>
+  <tr>
     <td align='center' width="190">
       <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" title="Docker" alt="Docker" width="100" height="40">
     </td>
