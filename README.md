@@ -72,9 +72,6 @@ Profile Views Count
       <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-ar21.svg" title="TypeScript" alt="TypeScript" width="100" height="40">
     </td>
     <td align='center' width="190">
-      <img src="https://github.com/bestofjs/bestofjs-webui/blob/master/public/logos/vscode.svg" title="VS Code"  alt="VS Code" width="40" height="40"/>
-    </td>
-    <td align='center' width="190">
       <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" title="Postman"  alt="Postman" width="40" height="40"/>
     </td>
     <td align='center' width="190">
