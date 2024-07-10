@@ -4,7 +4,7 @@
 
 #### :man_technologist: About Me :
 
-- :telescope: I’m working as a Software Engineer and expanding my knowledge of Ruby on Rails, GraphQL and React.
+- :telescope: I’m working as a Senior Software Engineer at EuphoriaXR and expanding my knowledge of Ruby on Rails and React.
 
 - :seedling: I write technical content on: 
   <div id="badges">
@@ -84,6 +84,20 @@
     </td>
     <td align='center' width="190">
       <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg" title="NodeJS"  alt="Node" width="100" height="60"/>
+    </td>
+    <td align='center' width="190">
+      <img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg" title="AngularJS" alt="AngularJS" width="100" height="60"/>
+    </td>
+  </tr>
+  <tr>
+    <td align='center' width="190">
+      <img src="https://github.com/devicons/devicon/blob/master/icons/bitbucket/bitbucket-original.svg" title="BitBucket" alt="BitBucket" width="100" height="60"/>
+    </td>
+    <td align='center' width="190">
+      <img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original.svg" title="Jira" alt="Jira" width="100" height="60"/>
+    </td>
+    <td align='center' width="190">
+      <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" title="SpringBoot" alt="SpringBoot" width="100" height="60"/>
     </td>
   </tr>
 </table>
@@ -178,9 +192,9 @@
 [![Shehroz github activity graph](https://activity-graph.herokuapp.com/graph?username=ShehrozIrfan&theme=react-dark)](https://github.com/shehrozirfan/github-readme-activity-graph) -->
 
 ## 📚 Latest Blog Posts :
+- [Git rebase a remote branch in the terminal](https://medium.com/@shehrozirfan/git-rebase-a-remote-branch-in-the-terminal-1850bb5ff12c)
 - [How to learn Ruby on Rails from scratch](https://medium.com/@shehrozirfan/how-to-learn-ruby-on-rails-from-scratch-5f6c88de8326)
 - [Git Cheat Sheet For Beginners](https://medium.com/@shehrozirfan/git-cheat-sheet-for-beginners-29f52f2e48e0)
-- [Git rebase a remote branch in the terminal](https://medium.com/@shehrozirfan/git-rebase-a-remote-branch-in-the-terminal-1850bb5ff12c)
 - [AJAX and Remote form submission in Rails](https://medium.com/@shehrozirfan/remote-form-submission-and-ajax-in-rails-14efd1880c40)
 - [`each_with_index` in Ruby](https://www.linkedin.com/posts/shehroz-irfan-447881158_eachwithindex-in-ruby-activity-6967910565285367808-v1TT)
 - [Validate email address using `REGEX` in RoR](https://www.linkedin.com/posts/shehroz-irfan-447881158_validate-an-email-in-ruby-on-rails-activity-6957026079127547904-Dl5I)
@@ -197,18 +211,18 @@
   <a href="mailto: shehrozirfan89@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
   </a>
-  <a href="https://www.facebook.com/shehroz.irfan.92/" target="_blank">
+<!--   <a href="https://www.facebook.com/shehroz.irfan.92/" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
-  </a>
+  </a> -->
  <a href="https://medium.com/@shehrozirfan" target="_blank">
     <img src="https://img.shields.io/badge/Medium-black?style=for-the-badge&logo=medium&logoColor=white" alt="Medium Badge"/>
   </a>
- <a href="https://www.instagram.com/shehroz_irfan/" target="_blank">
+<!--  <a href="https://www.instagram.com/shehroz_irfan/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-hotpink?style=for-the-badge&logo=instagram&logoColor=white" alt="Medium Badge"/>
-  </a>
-  <a href="https://twitter.com/InnoxentShehroz" target="_blank">
+  </a> -->
+<!--   <a href="https://twitter.com/InnoxentShehroz" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
+  </a> -->
 </div>
 
 <!---
