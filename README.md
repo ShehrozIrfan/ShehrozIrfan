@@ -1,10 +1,10 @@
 ### Hello World, Myself Shehroz Irfan 👋
 
-## I am a Coding Enthusiast, Full Stack Web Developer (ROR | React)
+## I am a Coding Enthusiast, Full Stack Web Developer
 
 #### :man_technologist: About Me :
 
-- :telescope: I’m working as a Senior Software Engineer at EuphoriaXR and expanding my knowledge of Ruby on Rails and React.
+- :telescope: I’m working as a Senior Software Engineer at EuphoriaXR.
 
 - :seedling: I write technical content on: 
   <div id="badges">
@@ -15,18 +15,33 @@
 
 - :zap: I love to attend tech events, network with like-minded people, share my knowledge, and always eager to learn new technologies to enhance my skills set.
 
-- 🥅  Goals(2024): Enhance my skill set by learning `Node`, `React`, `TypeScript`, `GraphQL`, `Ruby on Rails`, `Docker`, `Cloud Computing`, `AWS`
-
 ---
 
 ## :hammer_and_wrench: Languages and Tools :
 <table>
   <tr>
     <td align='center' width="190">
-      <img src="https://github.com/devicons/devicon/blob/master/icons/ruby/ruby-original.svg" title="ROR" alt="ROR" width="40" height="40"/>
+      <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg" title="NodeJS"  alt="Node" width="100" height="60"/>
     </td>
     <td align='center' width="190">
       <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>
+    </td>
+    <td align='center' width="190">
+      <img src="https://github.com/devicons/devicon/blob/master/icons/ruby/ruby-original.svg" title="ROR" alt="ROR" width="40" height="40"/>
+    </td>
+    <td align='center' width="190">
+      <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>
+    </td>
+    <td align='center' width="190">
+      <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-ar21.svg" title="TypeScript" alt="TypeScript" width="100" height="40">
+    </td>
+  </tr>
+  <tr>
+    <td align='center' width="190">
+      <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" title="SpringBoot" alt="SpringBoot" width="100" height="60"/>
+    </td>
+    <td align='center' width="190">
+      <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg" title="PostgreSQL"  alt="PostgreSQL" width="100" height="60"/>
     </td>
     <td align='center' width="190">
       <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>
@@ -35,13 +50,10 @@
       <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>
     </td>
     <td align='center' width="190">
-      <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>
+      <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="80" height="60"/>
     </td>
   </tr>
   <tr>
-    <td align='center' width="190">
-      <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="80" height="60"/>
-    </td>
     <td align='center' width="190">
       <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git"  alt="Git" width="40" height="40"/>
     </td>
@@ -54,14 +66,11 @@
     <td align='center' width="190">
       <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="PHP"  alt="PHP" width="40" height="40"/>
     </td>
-  </tr>
-  <tr>
     <td align='center' width="190">
       <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="CPP" alt="CPP" width="40" height="40">
     </td>
-    <td align='center' width="190">
-      <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-ar21.svg" title="TypeScript" alt="TypeScript" width="100" height="40">
-    </td>
+  </tr>
+  <tr>
     <td align='center' width="190">
       <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" title="Postman"  alt="Postman" width="40" height="40"/>
     </td>
@@ -71,94 +80,22 @@
     <td align='center' width="190">
       <img src="https://www.vectorlogo.zone/logos/heroku/heroku-ar21.svg" title="Heroku" alt="Heroku" width="100" height="60">
     </td>
-  </tr>
-  <tr>
     <td align='center' width="190">
       <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" title="Docker" alt="Docker" width="100" height="40">
     </td>
     <td align='center' width="190">
-      <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg" title="PostgreSQL"  alt="PostgreSQL" width="100" height="60"/>
-    </td>
-    <td align='center' width="190">
       <img src="https://www.vectorlogo.zone/logos/graphql/graphql-ar21.svg" title="GraphQL"  alt="GraphQL" width="100" height="60"/>
-    </td>
-    <td align='center' width="190">
-      <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg" title="NodeJS"  alt="Node" width="100" height="60"/>
-    </td>
-    <td align='center' width="190">
-      <img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg" title="AngularJS" alt="AngularJS" width="100" height="60"/>
     </td>
   </tr>
   <tr>
+    <td align='center' width="190">
+      <img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg" title="AngularJS" alt="AngularJS" width="100" height="60"/>
+    </td>
     <td align='center' width="190">
       <img src="https://github.com/devicons/devicon/blob/master/icons/bitbucket/bitbucket-original.svg" title="BitBucket" alt="BitBucket" width="100" height="60"/>
     </td>
     <td align='center' width="190">
       <img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original.svg" title="Jira" alt="Jira" width="100" height="60"/>
-    </td>
-    <td align='center' width="190">
-      <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" title="SpringBoot" alt="SpringBoot" width="100" height="60"/>
-    </td>
-  </tr>
-</table>
-
----
-
-## 💻 Projects
-<table bordercolor="#66b2b2">
-  
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">ToDo App</h3>
-      <br />
-      <a target="_blank" href="https://add-your-todo-tasks.netlify.app">
-          <img width="100%" alt="Todo App" src="https://user-images.githubusercontent.com/36946330/202845272-7a34058c-b865-4abd-9f7b-623b59daf7a6.png">
-      </a>
-      <br />
-      <p align="center">
-        <br>
-        <a href="https://github.com/ShehrozIrfan/react-essential-training/tree/master/todo_app" target="_blank">
-          <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=f&style=plastic&logo=github&logo-color=white"/>
-        </a>  
-        <a href="https://add-your-todo-tasks.netlify.app" target="_blank">
-          <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
-        </a>
-      </p>
-      <p><strong>React, Bootstrap</strong> - Todo App where you can manage your Todo tasks.</p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">Portfolio</h3>
-      <br />
-      <a target="_blank" href="https://shehrozirfan.github.io/portfolio">
-        <img width="100%" alt="Portfolio" src="https://user-images.githubusercontent.com/36946330/202846477-3d6400e8-b85c-477d-a235-51627c1e650b.png">
-      </a>
-      <br />
-      <p align="center">
-        <br>
-        <a href="https://github.com/ShehrozIrfan/portfolio" target="_blank">
-          <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=f&style=plastic&logo=github&logo-color=white"/>
-        </a>  
-        <a href="https://shehrozirfan.github.io/portfolio" target="_blank">
-          <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
-        </a>
-      </p>
-      <p><strong>HTML5, CSS3, Bootstrap & Javascript</strong> - Portfolio Site including links to my projects and ways to get in contact with me.</p>
-    </td>
-  </tr>
-
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">Commet Tree App</h3>
-      <br />
-      <img width="100%" alt="Comment Tree App" src="https://user-images.githubusercontent.com/36946330/204129009-69926b04-8a38-46cf-96c4-2768ececa594.png">
-      <br />
-      <p align="center">
-        <br>
-        <a href="https://github.com/ShehrozIrfan/comment_tree_app" target="_blank">
-          <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=f&style=plastic&logo=github&logo-color=white"/>
-        </a>  
-      </p>
-      <p><strong>Ruby on Rails, Bootstrap, Devise, Rspec</strong> - Comment Tree App which is created based on the concept of self-referential associations.</p>
     </td>
   </tr>
 </table>
