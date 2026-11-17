@@ -1,8 +1,10 @@
 # Shehroz Irfan
 
-### Senior Full-Stack Engineer · Lahore, Pakistan
+### Senior Full-Stack Engineer · Toptal Top 3% · Remote worldwide
 
-I build production SaaS with TypeScript, Node.js, React, Next.js and PostgreSQL on AWS. Most of my professional work is in private repositories, so this profile shows my stack and a few learning projects rather than my employer's code.
+**Portfolio and case studies: [shehrozirfan.dev](https://shehrozirfan.dev)**
+
+I build production SaaS with TypeScript, Node.js, React, Next.js and PostgreSQL on AWS. Most of my professional work is in private repositories, so this profile shows my stack and a few learning projects rather than my employer's code. The case studies on [shehrozirfan.dev](https://shehrozirfan.dev) cover the real work.
 
 ---
 
@@ -70,6 +72,12 @@ Cursor and Claude Code are part of my daily workflow, and I review AI-generated 
 ## 🤝🏻 Connect with Me
 
 <div id="badges">
+  <a href="https://shehrozirfan.dev" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-shehrozirfan.dev-4778FF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio: shehrozirfan.dev"/>
+  </a>
+  <a href="https://www.toptal.com/developers/resume/shehroz-irfan" target="_blank">
+    <img src="https://img.shields.io/badge/Toptal-Top_3%25-204ECF?style=for-the-badge&logo=toptal&logoColor=white" alt="Toptal Top 3%"/>
+  </a>
   <a href="https://www.linkedin.com/in/shehroz-irfan-447881158/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
